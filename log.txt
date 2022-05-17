@@ -2,3 +2,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0416. 🎨 style: rename variables for clarity
 0350. 🚀 perf: cache repeated calculations
+0925. ✨ feat: add export to CSV option
