@@ -1005,3 +1005,4 @@
 0519. 📚 docs: document token refresh logic
 0263. 📚 docs: add API usage examples
 0143. ✨ feat: implement quiz timer feature
+0787. ♻️ chore: rename env.example
