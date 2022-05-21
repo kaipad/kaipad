@@ -5,3 +5,4 @@
 0925. ✨ feat: add export to CSV option
 0706. ✨ feat: support email verification
 0437. 📚 docs: clarify environment setup
+0051. ✨ feat: enable dark mode toggle
