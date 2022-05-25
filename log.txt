@@ -8,3 +8,4 @@
 0051. ✨ feat: enable dark mode toggle
 0382. 📚 docs: improve code comments in utils
 0179. 🔧 refactor: split large controller into smaller functions
+0471. ✨ feat: support email verification
