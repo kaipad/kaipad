@@ -13,3 +13,4 @@
 0483. 📚 docs: update README with setup steps
 0040. 🔧 refactor: clean up auth middleware
 0174. 📚 docs: clarify environment setup
+0704. 🚀 perf: cache repeated calculations
