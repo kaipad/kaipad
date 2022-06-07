@@ -25,3 +25,4 @@
 0992. ♻️ chore: clean up unused files
 0443. 🎨 style: standardize quote style
 0657. 🎨 style: standardize quote style
+0651. ✨ feat: enable dark mode toggle
