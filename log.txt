@@ -1031,3 +1031,4 @@
 0543. ✨ feat: support email verification
 0989. 📚 docs: write FAQ section
 0561. 📚 docs: write FAQ section
+0438. ♻️ chore: bump dependencies
