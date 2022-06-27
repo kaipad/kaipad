@@ -47,3 +47,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0784. ♻️ chore: clean up unused files
 0681. ✨ feat: create admin dashboard
+0050. ✨ feat: enable dark mode toggle
