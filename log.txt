@@ -1042,3 +1042,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0821. ✅ test: add integration test for /submit endpoint
 0423. ✅ test: mock database connection in test suite
+0006. 🐛 fix: prevent crash on empty input
