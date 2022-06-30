@@ -51,3 +51,4 @@
 0612. ✅ test: test user registration edge cases
 0263. 📚 docs: add API usage examples
 0308. 🚀 perf: reduce image load time
+0207. 🐛 fix: prevent crash on empty input
