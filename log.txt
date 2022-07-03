@@ -1046,3 +1046,4 @@
 0483. 📚 docs: update README with setup steps
 0652. 🔧 refactor: organize models into subfolders
 0223. 🔧 refactor: remove redundant code blocks
+0535. 📚 docs: write FAQ section
