@@ -1047,3 +1047,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0223. 🔧 refactor: remove redundant code blocks
 0535. 📚 docs: write FAQ section
+0754. 🐛 fix: handle 500 error in quiz API
