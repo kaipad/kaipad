@@ -56,3 +56,4 @@
 0524. ♻️ chore: rename env.example
 0633. ✨ feat: add user authentication
 0021. ✨ feat: support email verification
+0634. 🎨 style: reformat files with black
