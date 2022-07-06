@@ -1049,3 +1049,4 @@
 0535. 📚 docs: write FAQ section
 0754. 🐛 fix: handle 500 error in quiz API
 0292. 📚 docs: clarify environment setup
+0296. 🔧 refactor: organize models into subfolders
