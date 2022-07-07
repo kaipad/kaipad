@@ -61,3 +61,4 @@
 0187. ✨ feat: support email verification
 0601. ✨ feat: implement quiz timer feature
 0184. 📚 docs: improve code comments in utils
+0363. 📚 docs: clarify environment setup
