@@ -1055,3 +1055,4 @@
 0009. ✨ feat: enable dark mode toggle
 0032. 🎨 style: apply consistent indentation
 0460. 📚 docs: write FAQ section
+0008. 🚀 perf: reduce image load time
