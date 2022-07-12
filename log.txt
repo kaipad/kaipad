@@ -64,3 +64,4 @@
 0363. 📚 docs: clarify environment setup
 0003. ✅ test: increase coverage on auth module
 0183. 🔧 refactor: split large controller into smaller functions
+0508. ✅ test: add unit test for quiz service
