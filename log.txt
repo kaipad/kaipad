@@ -1060,3 +1060,4 @@
 0995. ✅ test: mock database connection in test suite
 0681. ✨ feat: create admin dashboard
 0283. ♻️ chore: add GitHub actions badge
+0482. ✨ feat: add export to CSV option
