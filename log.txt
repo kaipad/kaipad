@@ -1061,3 +1061,4 @@
 0681. ✨ feat: create admin dashboard
 0283. ♻️ chore: add GitHub actions badge
 0482. ✨ feat: add export to CSV option
+0615. 🐛 fix: correct typo in registration form
