@@ -73,3 +73,4 @@
 0599. ✅ test: test user registration edge cases
 0409. 🚀 perf: lazy-load components
 0521. 🎨 style: standardize quote style
+0390. 🎨 style: standardize quote style
