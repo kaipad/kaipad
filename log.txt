@@ -1064,3 +1064,4 @@
 0615. 🐛 fix: correct typo in registration form
 0351. ✨ feat: add export to CSV option
 0556. ✨ feat: support email verification
+0155. ✨ feat: create admin dashboard
