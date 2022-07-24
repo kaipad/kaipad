@@ -74,3 +74,4 @@
 0409. 🚀 perf: lazy-load components
 0521. 🎨 style: standardize quote style
 0390. 🎨 style: standardize quote style
+0456. 🚀 perf: optimize database query for quiz results
