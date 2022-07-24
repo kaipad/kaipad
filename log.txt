@@ -1066,3 +1066,4 @@
 0556. ✨ feat: support email verification
 0155. ✨ feat: create admin dashboard
 0285. 🐛 fix: resolve issue with date parsing
+0257. 📚 docs: clarify environment setup
