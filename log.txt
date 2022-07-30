@@ -1072,3 +1072,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0266. 🔧 refactor: remove redundant code blocks
 0464. 🎨 style: remove trailing whitespace
+0786. ✨ feat: enable dark mode toggle
