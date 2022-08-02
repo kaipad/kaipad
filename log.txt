@@ -1075,3 +1075,4 @@
 0786. ✨ feat: enable dark mode toggle
 0804. ♻️ chore: add GitHub actions badge
 0199. ✨ feat: create admin dashboard
+0688. 🚀 perf: reduce image load time
