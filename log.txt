@@ -1077,3 +1077,4 @@
 0199. ✨ feat: create admin dashboard
 0688. 🚀 perf: reduce image load time
 0755. 🚀 perf: cache repeated calculations
+0957. 🐛 fix: fix null pointer exception on login
