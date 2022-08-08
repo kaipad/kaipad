@@ -1081,3 +1081,4 @@
 0192. ✨ feat: enable dark mode toggle
 0541. 🐛 fix: correct typo in registration form
 0298. ♻️ chore: update .gitignore
+0332. 🎨 style: standardize quote style
