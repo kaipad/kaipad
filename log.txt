@@ -1086,3 +1086,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0013. ✅ test: increase coverage on auth module
 0969. ✨ feat: create admin dashboard
+0324. 📚 docs: document token refresh logic
