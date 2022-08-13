@@ -1087,3 +1087,4 @@
 0013. ✅ test: increase coverage on auth module
 0969. ✨ feat: create admin dashboard
 0324. 📚 docs: document token refresh logic
+0906. 📚 docs: add API usage examples
