@@ -98,3 +98,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0090. ✅ test: increase coverage on auth module
 0327. 🔧 refactor: split large controller into smaller functions
+0247. 🎨 style: apply consistent indentation
