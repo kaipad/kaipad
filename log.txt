@@ -101,3 +101,4 @@
 0247. 🎨 style: apply consistent indentation
 0980. 🎨 style: reformat files with black
 0971. 🎨 style: standardize quote style
+0535. 📚 docs: write FAQ section
