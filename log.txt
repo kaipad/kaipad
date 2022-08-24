@@ -106,3 +106,4 @@
 0190. 🎨 style: rename variables for clarity
 0357. ✅ test: add unit test for quiz service
 0442. 🎨 style: standardize quote style
+0865. ♻️ chore: add GitHub actions badge
