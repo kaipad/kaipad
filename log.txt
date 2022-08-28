@@ -109,3 +109,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0285. 🐛 fix: resolve issue with date parsing
 0100. ♻️ chore: update .gitignore
+0742. 📚 docs: clarify environment setup
