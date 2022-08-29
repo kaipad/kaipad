@@ -111,3 +111,4 @@
 0100. ♻️ chore: update .gitignore
 0742. 📚 docs: clarify environment setup
 0517. ✅ test: mock database connection in test suite
+0036. 🔧 refactor: clean up auth middleware
