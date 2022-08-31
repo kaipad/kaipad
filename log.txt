@@ -1099,3 +1099,4 @@
 0911. ✅ test: increase coverage on auth module
 0664. ✅ test: add unit test for quiz service
 0678. ✨ feat: add user authentication
+0959. 🐛 fix: fix null pointer exception on login
