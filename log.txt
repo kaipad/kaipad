@@ -1104,3 +1104,4 @@
 0487. 🎨 style: reformat files with black
 0031. 📚 docs: document token refresh logic
 0372. ✨ feat: add user authentication
+0589. 🐛 fix: fix broken CSS in mobile view
