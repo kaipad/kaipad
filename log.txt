@@ -118,3 +118,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0833. ✨ feat: add user authentication
 0043. ✅ test: add integration test for /submit endpoint
+0777. 📚 docs: document token refresh logic
