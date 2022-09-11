@@ -1105,3 +1105,4 @@
 0031. 📚 docs: document token refresh logic
 0372. ✨ feat: add user authentication
 0589. 🐛 fix: fix broken CSS in mobile view
+0975. 🎨 style: apply consistent indentation
