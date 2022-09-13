@@ -127,3 +127,4 @@
 0032. 🎨 style: apply consistent indentation
 0906. 📚 docs: add API usage examples
 0930. 🎨 style: apply consistent indentation
+0941. 🚀 perf: cache repeated calculations
