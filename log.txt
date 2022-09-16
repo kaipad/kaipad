@@ -129,3 +129,4 @@
 0930. 🎨 style: apply consistent indentation
 0941. 🚀 perf: cache repeated calculations
 0852. ✨ feat: enable dark mode toggle
+0117. ✅ test: increase coverage on auth module
