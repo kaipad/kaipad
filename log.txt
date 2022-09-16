@@ -1110,3 +1110,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0858. ♻️ chore: clean up unused files
 0657. 🎨 style: standardize quote style
+0780. 📚 docs: add API usage examples
