@@ -130,3 +130,4 @@
 0941. 🚀 perf: cache repeated calculations
 0852. ✨ feat: enable dark mode toggle
 0117. ✅ test: increase coverage on auth module
+0395. 📚 docs: write FAQ section
