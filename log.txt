@@ -1111,3 +1111,4 @@
 0858. ♻️ chore: clean up unused files
 0657. 🎨 style: standardize quote style
 0780. 📚 docs: add API usage examples
+0618. ✨ feat: support email verification
