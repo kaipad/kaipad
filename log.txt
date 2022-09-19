@@ -133,3 +133,4 @@
 0395. 📚 docs: write FAQ section
 0840. 🔧 refactor: refactor quiz grading logic
 0136. 🚀 perf: lazy-load components
+0112. ✨ feat: enable dark mode toggle
