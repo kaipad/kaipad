@@ -1123,3 +1123,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0522. 🐛 fix: handle 500 error in quiz API
 0149. ✨ feat: add export to CSV option
+0210. 🎨 style: apply consistent indentation
