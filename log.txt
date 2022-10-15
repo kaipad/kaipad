@@ -152,3 +152,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0882. 🚀 perf: optimize database query for quiz results
 0872. 🎨 style: rename variables for clarity
+0740. 🐛 fix: resolve issue with date parsing
