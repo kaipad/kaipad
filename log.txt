@@ -1143,3 +1143,4 @@
 0795. 📚 docs: update README with setup steps
 0562. 🔧 refactor: clean up auth middleware
 0736. 🐛 fix: fix null pointer exception on login
+0876. ♻️ chore: rename env.example
