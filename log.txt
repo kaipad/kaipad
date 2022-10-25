@@ -154,3 +154,4 @@
 0872. 🎨 style: rename variables for clarity
 0740. 🐛 fix: resolve issue with date parsing
 0077. ♻️ chore: rename env.example
+0059. ♻️ chore: bump dependencies
