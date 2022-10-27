@@ -157,3 +157,4 @@
 0059. ♻️ chore: bump dependencies
 0554. 📚 docs: improve code comments in utils
 0280. ✅ test: add integration test for /submit endpoint
+0909. 🔧 refactor: organize models into subfolders
