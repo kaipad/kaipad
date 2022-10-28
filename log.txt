@@ -1149,3 +1149,4 @@
 0665. ♻️ chore: update .gitignore
 0630. 🚀 perf: lazy-load components
 0335. ♻️ chore: update .gitignore
+0960. ✅ test: increase coverage on auth module
