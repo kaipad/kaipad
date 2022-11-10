@@ -170,3 +170,4 @@
 0662. ♻️ chore: clean up unused files
 0333. 🚀 perf: cache repeated calculations
 0514. 🐛 fix: fix broken CSS in mobile view
+0975. 🎨 style: apply consistent indentation
