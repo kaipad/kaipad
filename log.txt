@@ -173,3 +173,4 @@
 0975. 🎨 style: apply consistent indentation
 0732. ♻️ chore: add GitHub actions badge
 0013. ✅ test: increase coverage on auth module
+0088. 📚 docs: add API usage examples
