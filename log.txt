@@ -175,3 +175,4 @@
 0013. ✅ test: increase coverage on auth module
 0088. 📚 docs: add API usage examples
 0676. 🐛 fix: prevent crash on empty input
+0692. ✅ test: add integration test for /submit endpoint
