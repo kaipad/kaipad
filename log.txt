@@ -1167,3 +1167,4 @@
 0317. ✅ test: test user registration edge cases
 0965. 🎨 style: reformat files with black
 0330. ✅ test: test user registration edge cases
+0168. ✅ test: add integration test for /submit endpoint
