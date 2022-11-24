@@ -1171,3 +1171,4 @@
 0286. ✅ test: mock database connection in test suite
 0059. ♻️ chore: bump dependencies
 0753. 🔧 refactor: remove redundant code blocks
+0036. 🔧 refactor: clean up auth middleware
