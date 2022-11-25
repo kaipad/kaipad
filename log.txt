@@ -187,3 +187,4 @@
 0188. 🎨 style: apply consistent indentation
 0540. ♻️ chore: add GitHub actions badge
 0346. ✅ test: mock database connection in test suite
+0345. 📚 docs: document token refresh logic
