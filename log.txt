@@ -191,3 +191,4 @@
 0232. 🎨 style: apply consistent indentation
 0778. 📚 docs: write FAQ section
 0067. 🔧 refactor: remove redundant code blocks
+0796. 🔧 refactor: refactor quiz grading logic
