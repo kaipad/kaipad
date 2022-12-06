@@ -194,3 +194,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0352. ✨ feat: add export to CSV option
 0344. ♻️ chore: add GitHub actions badge
+0253. 📚 docs: update README with setup steps
