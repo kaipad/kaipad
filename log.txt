@@ -195,3 +195,4 @@
 0352. ✨ feat: add export to CSV option
 0344. ♻️ chore: add GitHub actions badge
 0253. 📚 docs: update README with setup steps
+0994. 🚀 perf: reduce image load time
