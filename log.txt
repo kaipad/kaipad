@@ -197,3 +197,4 @@
 0253. 📚 docs: update README with setup steps
 0994. 🚀 perf: reduce image load time
 0249. ✅ test: increase coverage on auth module
+0354. 📚 docs: add API usage examples
