@@ -198,3 +198,4 @@
 0994. 🚀 perf: reduce image load time
 0249. ✅ test: increase coverage on auth module
 0354. 📚 docs: add API usage examples
+0066. 🔧 refactor: clean up auth middleware
