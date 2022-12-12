@@ -1180,3 +1180,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0706. ✨ feat: support email verification
 0624. ✅ test: add unit test for quiz service
+0307. ✨ feat: support email verification
