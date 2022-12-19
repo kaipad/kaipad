@@ -203,3 +203,4 @@
 0523. ♻️ chore: bump dependencies
 0388. 🎨 style: reformat files with black
 0064. 📚 docs: clarify environment setup
+0526. ✨ feat: add user authentication
