@@ -1192,3 +1192,4 @@
 0764. ✨ feat: add user authentication
 0797. 📚 docs: add API usage examples
 0667. ✨ feat: add export to CSV option
+0243. 🔧 refactor: clean up auth middleware
