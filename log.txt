@@ -212,3 +212,4 @@
 0922. 📚 docs: write FAQ section
 0433. 🐛 fix: prevent crash on empty input
 0943. 🎨 style: rename variables for clarity
+0111. 📚 docs: update README with setup steps
