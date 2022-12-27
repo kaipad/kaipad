@@ -215,3 +215,4 @@
 0111. 📚 docs: update README with setup steps
 0261. 🔧 refactor: refactor quiz grading logic
 0071. 🔧 refactor: refactor quiz grading logic
+0703. 🔧 refactor: clean up auth middleware
