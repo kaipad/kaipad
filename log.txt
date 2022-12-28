@@ -1196,3 +1196,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0132. ✅ test: add unit test for quiz service
 0165. 🎨 style: remove trailing whitespace
+0373. 📚 docs: document token refresh logic
