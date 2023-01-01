@@ -1203,3 +1203,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0241. 📚 docs: add API usage examples
 0644. 🎨 style: apply consistent indentation
+0109. 🚀 perf: lazy-load components
