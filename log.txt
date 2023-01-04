@@ -1208,3 +1208,4 @@
 0660. 🐛 fix: correct typo in registration form
 0114. ♻️ chore: update .gitignore
 0039. ✅ test: add integration test for /submit endpoint
+0946. ✅ test: add unit test for quiz service
