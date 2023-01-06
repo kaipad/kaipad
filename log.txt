@@ -1212,3 +1212,4 @@
 0442. 🎨 style: standardize quote style
 0740. 🐛 fix: resolve issue with date parsing
 0380. 🐛 fix: fix null pointer exception on login
+0996. ✅ test: test user registration edge cases
