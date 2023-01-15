@@ -1219,3 +1219,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0852. ✨ feat: enable dark mode toggle
 0074. ♻️ chore: add GitHub actions badge
+0035. ✅ test: increase coverage on auth module
