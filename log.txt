@@ -236,3 +236,4 @@
 0429. ✨ feat: add user authentication
 0522. 🐛 fix: handle 500 error in quiz API
 0972. 🔧 refactor: refactor quiz grading logic
+0478. 🐛 fix: resolve issue with date parsing
