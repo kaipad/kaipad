@@ -1221,3 +1221,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0035. ✅ test: increase coverage on auth module
 0683. ✅ test: mock database connection in test suite
+0284. ✨ feat: implement quiz timer feature
