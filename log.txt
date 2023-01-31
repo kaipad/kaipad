@@ -1227,3 +1227,4 @@
 0305. ✨ feat: enable dark mode toggle
 0023. 📚 docs: clarify environment setup
 0475. 🔧 refactor: clean up auth middleware
+0450. 🐛 fix: fix broken CSS in mobile view
