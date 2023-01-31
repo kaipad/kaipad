@@ -240,3 +240,4 @@
 0620. ✨ feat: implement quiz timer feature
 0976. ✨ feat: implement quiz timer feature
 0949. 📚 docs: write FAQ section
+0210. 🎨 style: apply consistent indentation
