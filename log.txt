@@ -242,3 +242,4 @@
 0949. 📚 docs: write FAQ section
 0210. 🎨 style: apply consistent indentation
 0895. ✨ feat: support email verification
+0956. 📚 docs: clarify environment setup
