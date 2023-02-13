@@ -252,3 +252,4 @@
 0295. 🎨 style: remove trailing whitespace
 0282. 🔧 refactor: remove redundant code blocks
 0750. 🎨 style: apply consistent indentation
+0660. 🐛 fix: correct typo in registration form
