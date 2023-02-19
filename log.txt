@@ -1239,3 +1239,4 @@
 0756. ✨ feat: support email verification
 0160. ♻️ chore: bump dependencies
 0170. ✅ test: increase coverage on auth module
+0690. 🚀 perf: lazy-load components
