@@ -265,3 +265,4 @@
 0099. 🚀 perf: reduce image load time
 0143. ✨ feat: implement quiz timer feature
 0734. ✨ feat: add export to CSV option
+0655. 🚀 perf: cache repeated calculations
