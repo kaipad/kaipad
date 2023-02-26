@@ -1243,3 +1243,4 @@
 0387. ✨ feat: enable dark mode toggle
 0861. ♻️ chore: clean up unused files
 0502. 📚 docs: update README with setup steps
+0949. 📚 docs: write FAQ section
