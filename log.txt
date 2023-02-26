@@ -266,3 +266,4 @@
 0143. ✨ feat: implement quiz timer feature
 0734. ✨ feat: add export to CSV option
 0655. 🚀 perf: cache repeated calculations
+0407. 🚀 perf: cache repeated calculations
