@@ -271,3 +271,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0529. 📚 docs: write FAQ section
 0379. ✨ feat: support email verification
+0773. 📚 docs: document token refresh logic
