@@ -272,3 +272,4 @@
 0529. 📚 docs: write FAQ section
 0379. ✨ feat: support email verification
 0773. 📚 docs: document token refresh logic
+0900. 🐛 fix: handle 500 error in quiz API
