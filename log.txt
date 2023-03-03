@@ -1245,3 +1245,4 @@
 0502. 📚 docs: update README with setup steps
 0949. 📚 docs: write FAQ section
 0177. 📚 docs: add API usage examples
+0493. ✨ feat: add user authentication
