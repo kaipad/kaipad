@@ -1246,3 +1246,4 @@
 0949. 📚 docs: write FAQ section
 0177. 📚 docs: add API usage examples
 0493. ✨ feat: add user authentication
+0406. ✨ feat: add export to CSV option
