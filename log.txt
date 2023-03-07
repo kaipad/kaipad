@@ -275,3 +275,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0235. 🐛 fix: fix null pointer exception on login
 0053. ✅ test: increase coverage on auth module
+0225. 🚀 perf: reduce image load time
