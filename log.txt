@@ -276,3 +276,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0053. ✅ test: increase coverage on auth module
 0225. 🚀 perf: reduce image load time
+0743. 🎨 style: apply consistent indentation
