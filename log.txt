@@ -279,3 +279,4 @@
 0743. 🎨 style: apply consistent indentation
 0323. 📚 docs: clarify environment setup
 0250. 📚 docs: update README with setup steps
+0800. 🚀 perf: optimize database query for quiz results
