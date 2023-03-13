@@ -1252,3 +1252,4 @@
 0178. ✨ feat: support email verification
 0509. ♻️ chore: bump dependencies
 0723. 🔧 refactor: remove redundant code blocks
+0939. 📚 docs: update README with setup steps
