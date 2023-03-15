@@ -1254,3 +1254,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0939. 📚 docs: update README with setup steps
 0200. 🐛 fix: handle 500 error in quiz API
+0888. 🚀 perf: lazy-load components
