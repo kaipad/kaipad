@@ -1259,3 +1259,4 @@
 0649. 📚 docs: update README with setup steps
 0715. ✨ feat: create admin dashboard
 0970. ♻️ chore: update .gitignore
+0313. 🎨 style: apply consistent indentation
