@@ -1260,3 +1260,4 @@
 0715. ✨ feat: create admin dashboard
 0970. ♻️ chore: update .gitignore
 0313. 🎨 style: apply consistent indentation
+0356. 📚 docs: write FAQ section
