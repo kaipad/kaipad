@@ -1268,3 +1268,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0481. ✅ test: add unit test for quiz service
 0867. 🔧 refactor: refactor quiz grading logic
+0947. 📚 docs: write FAQ section
