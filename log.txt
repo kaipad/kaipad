@@ -312,3 +312,4 @@
 0987. ✨ feat: create admin dashboard
 0101. 📚 docs: clarify environment setup
 0538. 🐛 fix: fix broken CSS in mobile view
+0628. ♻️ chore: add GitHub actions badge
