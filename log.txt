@@ -1285,3 +1285,4 @@
 0966. 📚 docs: improve code comments in utils
 0230. ✨ feat: create admin dashboard
 0547. 📚 docs: write FAQ section
+0834. ✅ test: increase coverage on auth module
