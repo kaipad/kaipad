@@ -318,3 +318,4 @@
 0766. 🎨 style: reformat files with black
 0863. 🐛 fix: correct typo in registration form
 0330. ✅ test: test user registration edge cases
+0860. 🔧 refactor: organize models into subfolders
