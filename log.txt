@@ -1304,3 +1304,4 @@
 0161. ✨ feat: create admin dashboard
 0088. 📚 docs: add API usage examples
 0916. ♻️ chore: bump dependencies
+0792. 🎨 style: standardize quote style
