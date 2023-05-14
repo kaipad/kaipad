@@ -330,3 +330,4 @@
 0731. 🎨 style: standardize quote style
 0927. ♻️ chore: bump dependencies
 0647. 🐛 fix: prevent crash on empty input
+0317. ✅ test: test user registration edge cases
