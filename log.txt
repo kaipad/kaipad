@@ -331,3 +331,4 @@
 0927. ♻️ chore: bump dependencies
 0647. 🐛 fix: prevent crash on empty input
 0317. ✅ test: test user registration edge cases
+0670. ✨ feat: add export to CSV option
