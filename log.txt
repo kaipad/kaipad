@@ -337,3 +337,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0120. ✅ test: add integration test for /submit endpoint
 0695. ✨ feat: create admin dashboard
+0735. ♻️ chore: add GitHub actions badge
