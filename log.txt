@@ -339,3 +339,4 @@
 0695. ✨ feat: create admin dashboard
 0735. ♻️ chore: add GitHub actions badge
 0182. 🔧 refactor: remove redundant code blocks
+0603. 🐛 fix: fix broken CSS in mobile view
