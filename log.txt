@@ -1321,3 +1321,4 @@
 0369. 🎨 style: standardize quote style
 0637. 🎨 style: apply consistent indentation
 0295. 🎨 style: remove trailing whitespace
+0574. ✨ feat: enable dark mode toggle
