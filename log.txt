@@ -340,3 +340,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0182. 🔧 refactor: remove redundant code blocks
 0603. 🐛 fix: fix broken CSS in mobile view
+0940. 📚 docs: document token refresh logic
