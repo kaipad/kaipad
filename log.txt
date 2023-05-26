@@ -342,3 +342,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0940. 📚 docs: document token refresh logic
 0912. 📚 docs: document token refresh logic
+0268. 🐛 fix: prevent crash on empty input
