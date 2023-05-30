@@ -343,3 +343,4 @@
 0940. 📚 docs: document token refresh logic
 0912. 📚 docs: document token refresh logic
 0268. 🐛 fix: prevent crash on empty input
+0618. ✨ feat: support email verification
