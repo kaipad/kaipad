@@ -1328,3 +1328,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0849. 🐛 fix: correct typo in registration form
 0847. ♻️ chore: clean up unused files
+0225. 🚀 perf: reduce image load time
