@@ -1332,3 +1332,4 @@
 0404. 📚 docs: improve code comments in utils
 0908. ♻️ chore: bump dependencies
 0720. ✨ feat: add export to CSV option
+0914. ✅ test: test user registration edge cases
