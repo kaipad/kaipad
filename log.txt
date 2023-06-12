@@ -356,3 +356,4 @@
 0186. ✅ test: test user registration edge cases
 0989. 📚 docs: write FAQ section
 0720. ✨ feat: add export to CSV option
+0685. ✅ test: test user registration edge cases
