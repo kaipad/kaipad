@@ -359,3 +359,4 @@
 0685. ✅ test: test user registration edge cases
 0760. 🐛 fix: resolve issue with date parsing
 0916. ♻️ chore: bump dependencies
+0254. 🚀 perf: reduce image load time
