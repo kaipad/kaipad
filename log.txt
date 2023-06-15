@@ -358,3 +358,4 @@
 0720. ✨ feat: add export to CSV option
 0685. ✅ test: test user registration edge cases
 0760. 🐛 fix: resolve issue with date parsing
+0916. ♻️ chore: bump dependencies
