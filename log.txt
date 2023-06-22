@@ -364,3 +364,4 @@
 0203. 🚀 perf: lazy-load components
 0689. 🎨 style: reformat files with black
 0122. ✨ feat: support email verification
+0335. ♻️ chore: update .gitignore
