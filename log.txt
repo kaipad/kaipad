@@ -1350,3 +1350,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0029. 🚀 perf: lazy-load components
 0506. 🐛 fix: handle 500 error in quiz API
+0410. 🎨 style: reformat files with black
