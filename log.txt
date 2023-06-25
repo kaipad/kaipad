@@ -365,3 +365,4 @@
 0689. 🎨 style: reformat files with black
 0122. ✨ feat: support email verification
 0335. ♻️ chore: update .gitignore
+0420. 🚀 perf: reduce image load time
