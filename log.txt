@@ -1353,3 +1353,4 @@
 0410. 🎨 style: reformat files with black
 0082. 🔧 refactor: refactor quiz grading logic
 0240. 🔧 refactor: remove redundant code blocks
+0276. ✅ test: add integration test for /submit endpoint
