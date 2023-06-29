@@ -1356,3 +1356,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0749. ✨ feat: support email verification
 0128. ♻️ chore: rename env.example
+0621. 🔧 refactor: clean up auth middleware
