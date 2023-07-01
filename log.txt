@@ -1360,3 +1360,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0891. ✨ feat: create admin dashboard
 0127. 🐛 fix: fix null pointer exception on login
+0214. 📚 docs: improve code comments in utils
