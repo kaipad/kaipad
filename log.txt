@@ -375,3 +375,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0595. ✨ feat: enable dark mode toggle
 0331. 🐛 fix: fix broken CSS in mobile view
+0805. ♻️ chore: add GitHub actions badge
