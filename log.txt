@@ -379,3 +379,4 @@
 0349. ✅ test: increase coverage on auth module
 0843. 📚 docs: document token refresh logic
 0929. ✨ feat: support email verification
+0080. ✨ feat: support email verification
