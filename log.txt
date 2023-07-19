@@ -384,3 +384,4 @@
 0644. 🎨 style: apply consistent indentation
 0979. 🎨 style: standardize quote style
 0745. ✅ test: add unit test for quiz service
+0320. 📚 docs: update README with setup steps
