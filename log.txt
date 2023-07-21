@@ -1377,3 +1377,4 @@
 0354. 📚 docs: add API usage examples
 0415. 🐛 fix: handle 500 error in quiz API
 0480. ♻️ chore: add GitHub actions badge
+0058. ♻️ chore: add GitHub actions badge
