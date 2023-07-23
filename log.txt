@@ -1379,3 +1379,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0058. ♻️ chore: add GitHub actions badge
 0875. ✅ test: increase coverage on auth module
+0424. ✨ feat: add user authentication
