@@ -1380,3 +1380,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0875. ✅ test: increase coverage on auth module
 0424. ✨ feat: add user authentication
+0081. 🐛 fix: fix null pointer exception on login
