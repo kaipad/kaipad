@@ -1383,3 +1383,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0952. 🔧 refactor: split large controller into smaller functions
 0645. 🐛 fix: resolve issue with date parsing
+0486. ✨ feat: add export to CSV option
