@@ -1388,3 +1388,4 @@
 0994. 🚀 perf: reduce image load time
 0270. ♻️ chore: rename env.example
 0336. ✨ feat: add export to CSV option
+0758. 🚀 perf: optimize database query for quiz results
