@@ -403,3 +403,4 @@
 0914. ✅ test: test user registration edge cases
 0074. ♻️ chore: add GitHub actions badge
 0377. ✨ feat: add user authentication
+0491. 🚀 perf: lazy-load components
