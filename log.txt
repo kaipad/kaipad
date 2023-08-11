@@ -1399,3 +1399,4 @@
 0152. ✨ feat: add user authentication
 0620. ✨ feat: implement quiz timer feature
 0738. 🐛 fix: prevent crash on empty input
+0730. ✅ test: test user registration edge cases
