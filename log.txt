@@ -410,3 +410,4 @@
 0052. 🎨 style: standardize quote style
 0139. 📚 docs: document token refresh logic
 0281. ✨ feat: support email verification
+0062. ♻️ chore: update .gitignore
