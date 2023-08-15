@@ -411,3 +411,4 @@
 0139. 📚 docs: document token refresh logic
 0281. ✨ feat: support email verification
 0062. ♻️ chore: update .gitignore
+0707. 🎨 style: apply consistent indentation
