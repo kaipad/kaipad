@@ -414,3 +414,4 @@
 0707. 🎨 style: apply consistent indentation
 0381. ♻️ chore: clean up unused files
 0978. 🐛 fix: prevent crash on empty input
+0150. 🎨 style: remove trailing whitespace
