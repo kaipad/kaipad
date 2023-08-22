@@ -1409,3 +1409,4 @@
 0499. 🎨 style: reformat files with black
 0728. 🔧 refactor: split large controller into smaller functions
 0590. 🐛 fix: fix null pointer exception on login
+0565. ♻️ chore: add GitHub actions badge
