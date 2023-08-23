@@ -416,3 +416,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0150. 🎨 style: remove trailing whitespace
 0042. 📚 docs: document token refresh logic
+0696. 🔧 refactor: clean up auth middleware
