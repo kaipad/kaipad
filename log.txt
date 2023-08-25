@@ -418,3 +418,4 @@
 0042. 📚 docs: document token refresh logic
 0696. 🔧 refactor: clean up auth middleware
 0009. ✨ feat: enable dark mode toggle
+0684. 🚀 perf: reduce image load time
