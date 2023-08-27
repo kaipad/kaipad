@@ -420,3 +420,4 @@
 0009. ✨ feat: enable dark mode toggle
 0684. 🚀 perf: reduce image load time
 0239. 🎨 style: standardize quote style
+0504. 📚 docs: document token refresh logic
