@@ -1414,3 +1414,4 @@
 0997. ✅ test: increase coverage on auth module
 0040. 🔧 refactor: clean up auth middleware
 0953. 🎨 style: remove trailing whitespace
+0767. 🔧 refactor: remove redundant code blocks
