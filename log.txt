@@ -426,3 +426,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0690. 🚀 perf: lazy-load components
 0229. 🚀 perf: optimize database query for quiz results
+0861. ♻️ chore: clean up unused files
