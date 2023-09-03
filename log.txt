@@ -429,3 +429,4 @@
 0861. ♻️ chore: clean up unused files
 0780. 📚 docs: add API usage examples
 0772. 🐛 fix: fix null pointer exception on login
+0438. ♻️ chore: bump dependencies
