@@ -434,3 +434,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0341. 🚀 perf: lazy-load components
 0582. ✨ feat: add export to CSV option
+0018. 🔧 refactor: organize models into subfolders
