@@ -1420,3 +1420,4 @@
 0277. 🎨 style: standardize quote style
 0595. ✨ feat: enable dark mode toggle
 0106. 🎨 style: reformat files with black
+0086. 🐛 fix: correct typo in registration form
