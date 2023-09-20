@@ -451,3 +451,4 @@
 0580. ♻️ chore: bump dependencies
 0959. 🐛 fix: fix null pointer exception on login
 0847. ♻️ chore: clean up unused files
+0380. 🐛 fix: fix null pointer exception on login
