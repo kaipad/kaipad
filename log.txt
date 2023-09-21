@@ -454,3 +454,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0973. 🔧 refactor: organize models into subfolders
 0549. ✨ feat: enable dark mode toggle
+0462. ♻️ chore: update .gitignore
