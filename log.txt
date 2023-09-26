@@ -1440,3 +1440,4 @@
 0445. 📚 docs: improve code comments in utils
 0093. ✅ test: add unit test for quiz service
 0864. 🐛 fix: correct typo in registration form
+0107. 🐛 fix: prevent crash on empty input
