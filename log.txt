@@ -1445,3 +1445,4 @@
 0528. ♻️ chore: clean up unused files
 0463. 🚀 perf: reduce image load time
 0473. 📚 docs: write FAQ section
+0695. ✨ feat: create admin dashboard
