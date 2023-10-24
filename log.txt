@@ -475,3 +475,4 @@
 0596. ♻️ chore: update .gitignore
 0836. 🚀 perf: optimize database query for quiz results
 0116. ✨ feat: support email verification
+0449. ✅ test: add unit test for quiz service
