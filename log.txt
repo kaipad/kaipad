@@ -477,3 +477,4 @@
 0116. ✨ feat: support email verification
 0449. ✅ test: add unit test for quiz service
 0810. 🔧 refactor: refactor quiz grading logic
+0611. ✅ test: test user registration edge cases
