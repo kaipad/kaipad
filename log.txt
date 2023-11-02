@@ -1461,3 +1461,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0446. 🎨 style: apply consistent indentation
 0682. ♻️ chore: rename env.example
+0374. 🎨 style: standardize quote style
