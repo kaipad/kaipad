@@ -495,3 +495,4 @@
 0811. 🎨 style: reformat files with black
 0754. 🐛 fix: handle 500 error in quiz API
 0802. 🔧 refactor: remove redundant code blocks
+0665. ♻️ chore: update .gitignore
