@@ -502,3 +502,4 @@
 0646. ✅ test: test user registration edge cases
 0875. ✅ test: increase coverage on auth module
 0791. 🔧 refactor: clean up auth middleware
+0192. ✨ feat: enable dark mode toggle
