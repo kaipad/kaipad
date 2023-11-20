@@ -1479,3 +1479,4 @@
 0141. 📚 docs: document token refresh logic
 0521. 🎨 style: standardize quote style
 0353. ♻️ chore: rename env.example
+0235. 🐛 fix: fix null pointer exception on login
