@@ -1478,3 +1478,4 @@
 0964. ♻️ chore: clean up unused files
 0141. 📚 docs: document token refresh logic
 0521. 🎨 style: standardize quote style
+0353. ♻️ chore: rename env.example
