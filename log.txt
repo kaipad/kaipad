@@ -1480,3 +1480,4 @@
 0521. 🎨 style: standardize quote style
 0353. ♻️ chore: rename env.example
 0235. 🐛 fix: fix null pointer exception on login
+0383. 🐛 fix: fix broken CSS in mobile view
