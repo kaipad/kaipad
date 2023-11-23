@@ -508,3 +508,4 @@
 0798. 🚀 perf: reduce image load time
 0935. 📚 docs: update README with setup steps
 0501. ✨ feat: add export to CSV option
+0048. 📚 docs: update README with setup steps
