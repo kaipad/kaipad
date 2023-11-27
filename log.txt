@@ -510,3 +510,4 @@
 0501. ✨ feat: add export to CSV option
 0048. 📚 docs: update README with setup steps
 0635. 🎨 style: apply consistent indentation
+0622. 🎨 style: apply consistent indentation
