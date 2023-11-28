@@ -1487,3 +1487,4 @@
 0575. ✅ test: add unit test for quiz service
 0471. ✨ feat: support email verification
 0826. 📚 docs: clarify environment setup
+0889. 🚀 perf: lazy-load components
