@@ -516,3 +516,4 @@
 0135. ✅ test: test user registration edge cases
 0484. 🐛 fix: handle 500 error in quiz API
 0161. ✨ feat: create admin dashboard
+0862. ♻️ chore: bump dependencies
