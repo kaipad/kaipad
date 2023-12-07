@@ -520,3 +520,4 @@
 0455. ♻️ chore: clean up unused files
 0787. ♻️ chore: rename env.example
 0146. 🎨 style: apply consistent indentation
+0537. 🔧 refactor: remove redundant code blocks
