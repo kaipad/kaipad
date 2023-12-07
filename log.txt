@@ -519,3 +519,4 @@
 0862. ♻️ chore: bump dependencies
 0455. ♻️ chore: clean up unused files
 0787. ♻️ chore: rename env.example
+0146. 🎨 style: apply consistent indentation
