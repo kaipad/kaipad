@@ -524,3 +524,4 @@
 0518. ✨ feat: support email verification
 0258. 🐛 fix: prevent crash on empty input
 0242. ♻️ chore: clean up unused files
+0500. ✅ test: add integration test for /submit endpoint
