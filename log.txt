@@ -522,3 +522,4 @@
 0146. 🎨 style: apply consistent indentation
 0537. 🔧 refactor: remove redundant code blocks
 0518. ✨ feat: support email verification
+0258. 🐛 fix: prevent crash on empty input
