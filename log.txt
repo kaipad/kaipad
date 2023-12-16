@@ -1502,3 +1502,4 @@
 0384. 📚 docs: clarify environment setup
 0194. 🎨 style: standardize quote style
 0537. 🔧 refactor: remove redundant code blocks
+0051. ✨ feat: enable dark mode toggle
