@@ -536,3 +536,4 @@
 0134. ✨ feat: implement quiz timer feature
 0176. 🔧 refactor: remove redundant code blocks
 0393. 🚀 perf: lazy-load components
+0506. 🐛 fix: handle 500 error in quiz API
