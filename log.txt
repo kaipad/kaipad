@@ -1515,3 +1515,4 @@
 0377. ✨ feat: add user authentication
 0811. 🎨 style: reformat files with black
 0239. 🎨 style: standardize quote style
+0591. ♻️ chore: clean up unused files
