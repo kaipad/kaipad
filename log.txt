@@ -547,3 +547,4 @@
 0470. 🎨 style: remove trailing whitespace
 0367. 🐛 fix: fix null pointer exception on login
 0756. ✨ feat: support email verification
+0054. ♻️ chore: update .gitignore
