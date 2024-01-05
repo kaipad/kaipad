@@ -545,3 +545,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0823. ✨ feat: add user authentication
 0470. 🎨 style: remove trailing whitespace
+0367. 🐛 fix: fix null pointer exception on login
