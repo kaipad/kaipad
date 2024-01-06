@@ -549,3 +549,4 @@
 0756. ✨ feat: support email verification
 0054. ♻️ chore: update .gitignore
 0248. 🐛 fix: handle 500 error in quiz API
+0926. 🔧 refactor: organize models into subfolders
