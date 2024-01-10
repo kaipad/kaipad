@@ -551,3 +551,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0926. 🔧 refactor: organize models into subfolders
 0645. 🐛 fix: resolve issue with date parsing
+0659. 📚 docs: add API usage examples
