@@ -564,3 +564,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0804. ♻️ chore: add GitHub actions badge
 0092. 🚀 perf: reduce image load time
+0697. ♻️ chore: bump dependencies
