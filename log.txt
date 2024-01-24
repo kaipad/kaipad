@@ -1534,3 +1534,4 @@
 0617. ✨ feat: support email verification
 0927. ♻️ chore: bump dependencies
 0555. ✨ feat: create admin dashboard
+0507. 🔧 refactor: clean up auth middleware
