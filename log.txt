@@ -572,3 +572,4 @@
 0473. 📚 docs: write FAQ section
 0825. 🔧 refactor: split large controller into smaller functions
 0241. 📚 docs: add API usage examples
+0485. 📚 docs: update README with setup steps
