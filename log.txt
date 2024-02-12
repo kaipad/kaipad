@@ -578,3 +578,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0637. 🎨 style: apply consistent indentation
 0041. 🐛 fix: fix broken CSS in mobile view
+0159. 🚀 perf: lazy-load components
