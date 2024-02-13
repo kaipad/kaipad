@@ -1548,3 +1548,4 @@
 0743. 🎨 style: apply consistent indentation
 0944. ✨ feat: add user authentication
 0162. ♻️ chore: add GitHub actions badge
+0835. 🐛 fix: prevent crash on empty input
