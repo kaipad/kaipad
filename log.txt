@@ -579,3 +579,4 @@
 0637. 🎨 style: apply consistent indentation
 0041. 🐛 fix: fix broken CSS in mobile view
 0159. 🚀 perf: lazy-load components
+0372. ✨ feat: add user authentication
