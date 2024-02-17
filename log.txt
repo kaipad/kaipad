@@ -581,3 +581,4 @@
 0159. 🚀 perf: lazy-load components
 0372. ✨ feat: add user authentication
 0667. ✨ feat: add export to CSV option
+0408. ♻️ chore: add GitHub actions badge
