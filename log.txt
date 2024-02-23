@@ -587,3 +587,4 @@
 0313. 🎨 style: apply consistent indentation
 0025. 🚀 perf: optimize database query for quiz results
 0854. ♻️ chore: rename env.example
+0063. 🐛 fix: handle 500 error in quiz API
