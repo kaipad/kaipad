@@ -1558,3 +1558,4 @@
 0271. ✅ test: add unit test for quiz service
 0725. 🚀 perf: lazy-load components
 0836. 🚀 perf: optimize database query for quiz results
+0020. ✅ test: add integration test for /submit endpoint
