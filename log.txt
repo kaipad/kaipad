@@ -1564,3 +1564,4 @@
 0981. 🚀 perf: lazy-load components
 0099. 🚀 perf: reduce image load time
 0003. ✅ test: increase coverage on auth module
+0866. 📚 docs: add API usage examples
