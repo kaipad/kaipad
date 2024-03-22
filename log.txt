@@ -1567,3 +1567,4 @@
 0866. 📚 docs: add API usage examples
 0015. ✨ feat: implement quiz timer feature
 0942. ✅ test: increase coverage on auth module
+0703. 🔧 refactor: clean up auth middleware
