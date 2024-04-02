@@ -618,3 +618,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0215. 🎨 style: reformat files with black
 0874. 🔧 refactor: split large controller into smaller functions
+0369. 🎨 style: standardize quote style
