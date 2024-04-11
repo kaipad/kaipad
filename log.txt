@@ -1582,3 +1582,4 @@
 0001. 🚀 perf: cache repeated calculations
 0993. ✨ feat: implement quiz timer feature
 0388. 🎨 style: reformat files with black
+0457. 🐛 fix: handle 500 error in quiz API
