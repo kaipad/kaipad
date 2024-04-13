@@ -1584,3 +1584,4 @@
 0388. 🎨 style: reformat files with black
 0457. 🐛 fix: handle 500 error in quiz API
 0605. ✨ feat: support email verification
+0696. 🔧 refactor: clean up auth middleware
