@@ -625,3 +625,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0801. ✨ feat: enable dark mode toggle
 0830. 🎨 style: apply consistent indentation
+0783. 🐛 fix: handle 500 error in quiz API
