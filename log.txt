@@ -634,3 +634,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0277. 🎨 style: standardize quote style
 0278. 🔧 refactor: clean up auth middleware
+0821. ✅ test: add integration test for /submit endpoint
