@@ -643,3 +643,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0806. 📚 docs: improve code comments in utils
 0792. 🎨 style: standardize quote style
+0552. 🐛 fix: fix null pointer exception on login
