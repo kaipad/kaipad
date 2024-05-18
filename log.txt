@@ -645,3 +645,4 @@
 0792. 🎨 style: standardize quote style
 0552. 🐛 fix: fix null pointer exception on login
 0643. 🎨 style: apply consistent indentation
+0131. 📚 docs: write FAQ section
