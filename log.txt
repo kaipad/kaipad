@@ -646,3 +646,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0643. 🎨 style: apply consistent indentation
 0131. 📚 docs: write FAQ section
+0289. 🐛 fix: resolve issue with date parsing
