@@ -1614,3 +1614,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0108. 🎨 style: remove trailing whitespace
 0656. 🎨 style: apply consistent indentation
+0341. 🚀 perf: lazy-load components
