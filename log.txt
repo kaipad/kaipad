@@ -649,3 +649,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0509. ♻️ chore: bump dependencies
 0103. 🔧 refactor: remove redundant code blocks
+0844. 📚 docs: update README with setup steps
