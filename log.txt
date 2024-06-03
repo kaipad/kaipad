@@ -1623,3 +1623,4 @@
 0523. ♻️ chore: bump dependencies
 0687. 🎨 style: remove trailing whitespace
 0435. ✅ test: add unit test for quiz service
+0062. ♻️ chore: update .gitignore
