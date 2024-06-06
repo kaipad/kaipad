@@ -658,3 +658,4 @@
 0789. ✨ feat: create admin dashboard
 0301. 🎨 style: apply consistent indentation
 0132. ✅ test: add unit test for quiz service
+0544. 🔧 refactor: organize models into subfolders
