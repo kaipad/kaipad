@@ -662,3 +662,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0209. ✨ feat: implement quiz timer feature
 0594. 🎨 style: reformat files with black
+0786. ✨ feat: enable dark mode toggle
