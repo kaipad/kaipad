@@ -1637,3 +1637,4 @@
 0563. 📚 docs: clarify environment setup
 0709. ♻️ chore: bump dependencies
 0513. ♻️ chore: bump dependencies
+0974. ✨ feat: add export to CSV option
