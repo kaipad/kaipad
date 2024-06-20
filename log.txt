@@ -1638,3 +1638,4 @@
 0709. ♻️ chore: bump dependencies
 0513. ♻️ chore: bump dependencies
 0974. ✨ feat: add export to CSV option
+0287. 📚 docs: write FAQ section
