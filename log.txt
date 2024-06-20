@@ -1639,3 +1639,4 @@
 0513. ♻️ chore: bump dependencies
 0974. ✨ feat: add export to CSV option
 0287. 📚 docs: write FAQ section
+0924. ✅ test: mock database connection in test suite
