@@ -1642,3 +1642,4 @@
 0924. ✅ test: mock database connection in test suite
 0599. ✅ test: test user registration edge cases
 0078. ♻️ chore: update .gitignore
+0153. ♻️ chore: rename env.example
