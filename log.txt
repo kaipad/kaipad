@@ -1640,3 +1640,4 @@
 0974. ✨ feat: add export to CSV option
 0287. 📚 docs: write FAQ section
 0924. ✅ test: mock database connection in test suite
+0599. ✅ test: test user registration edge cases
