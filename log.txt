@@ -1651,3 +1651,4 @@
 0469. 🚀 perf: lazy-load components
 0331. 🐛 fix: fix broken CSS in mobile view
 0439. 🐛 fix: correct typo in registration form
+0601. ✨ feat: implement quiz timer feature
