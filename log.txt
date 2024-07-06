@@ -1653,3 +1653,4 @@
 0439. 🐛 fix: correct typo in registration form
 0601. ✨ feat: implement quiz timer feature
 0956. 📚 docs: clarify environment setup
+0532. 🔧 refactor: split large controller into smaller functions
