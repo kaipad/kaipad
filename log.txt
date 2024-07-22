@@ -1674,3 +1674,4 @@
 0895. ✨ feat: support email verification
 0859. ✨ feat: create admin dashboard
 0568. 🐛 fix: handle 500 error in quiz API
+0708. ✅ test: add integration test for /submit endpoint
