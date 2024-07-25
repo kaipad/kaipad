@@ -692,3 +692,4 @@
 0885. ♻️ chore: update .gitignore
 0565. ♻️ chore: add GitHub actions badge
 0426. ✅ test: add integration test for /submit endpoint
+0553. 🐛 fix: correct typo in registration form
