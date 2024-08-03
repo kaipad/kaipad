@@ -1686,3 +1686,4 @@
 0115. 🚀 perf: reduce image load time
 0215. 🎨 style: reformat files with black
 0611. ✅ test: test user registration edge cases
+0140. 🐛 fix: handle 500 error in quiz API
