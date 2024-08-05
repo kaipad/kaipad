@@ -697,3 +697,4 @@
 0155. ✨ feat: create admin dashboard
 0542. 🔧 refactor: organize models into subfolders
 0826. 📚 docs: clarify environment setup
+0607. 🐛 fix: prevent crash on empty input
