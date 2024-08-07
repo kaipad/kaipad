@@ -698,3 +698,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0826. 📚 docs: clarify environment setup
 0607. 🐛 fix: prevent crash on empty input
+0290. ✅ test: test user registration edge cases
