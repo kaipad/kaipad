@@ -1689,3 +1689,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0831. 📚 docs: clarify environment setup
 0632. 🎨 style: remove trailing whitespace
+0395. 📚 docs: write FAQ section
