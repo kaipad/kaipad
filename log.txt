@@ -701,3 +701,4 @@
 0290. ✅ test: test user registration edge cases
 0650. ✅ test: add unit test for quiz service
 0361. ✨ feat: support email verification
+0583. ✅ test: increase coverage on auth module
