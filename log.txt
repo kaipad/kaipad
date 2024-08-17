@@ -1694,3 +1694,4 @@
 0684. 🚀 perf: reduce image load time
 0770. ♻️ chore: rename env.example
 0250. 📚 docs: update README with setup steps
+0021. ✨ feat: support email verification
