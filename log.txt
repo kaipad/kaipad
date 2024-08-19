@@ -707,3 +707,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0902. ✨ feat: enable dark mode toggle
 0736. 🐛 fix: fix null pointer exception on login
+0848. 📚 docs: update README with setup steps
