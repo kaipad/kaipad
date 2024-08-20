@@ -1696,3 +1696,4 @@
 0250. 📚 docs: update README with setup steps
 0021. ✨ feat: support email verification
 0002. 🚀 perf: cache repeated calculations
+0217. 🚀 perf: reduce image load time
