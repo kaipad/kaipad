@@ -1697,3 +1697,4 @@
 0021. ✨ feat: support email verification
 0002. 🚀 perf: cache repeated calculations
 0217. 🚀 perf: reduce image load time
+0379. ✨ feat: support email verification
