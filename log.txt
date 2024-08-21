@@ -710,3 +710,4 @@
 0848. 📚 docs: update README with setup steps
 0717. 🔧 refactor: refactor quiz grading logic
 0876. ♻️ chore: rename env.example
+0864. 🐛 fix: correct typo in registration form
