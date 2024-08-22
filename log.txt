@@ -712,3 +712,4 @@
 0876. ♻️ chore: rename env.example
 0864. 🐛 fix: correct typo in registration form
 0271. ✅ test: add unit test for quiz service
+0933. 📚 docs: clarify environment setup
