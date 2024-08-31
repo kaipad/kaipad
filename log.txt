@@ -1703,3 +1703,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0105. 🐛 fix: correct typo in registration form
 0886. ♻️ chore: clean up unused files
+0503. ♻️ chore: rename env.example
