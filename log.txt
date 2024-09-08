@@ -730,3 +730,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0016. 🎨 style: apply consistent indentation
 0113. ✨ feat: add user authentication
+0776. ✅ test: add integration test for /submit endpoint
