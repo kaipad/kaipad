@@ -1705,3 +1705,4 @@
 0886. ♻️ chore: clean up unused files
 0503. ♻️ chore: rename env.example
 0818. 🔧 refactor: remove redundant code blocks
+0977. 🔧 refactor: organize models into subfolders
