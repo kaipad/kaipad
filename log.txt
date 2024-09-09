@@ -1706,3 +1706,4 @@
 0503. ♻️ chore: rename env.example
 0818. 🔧 refactor: remove redundant code blocks
 0977. 🔧 refactor: organize models into subfolders
+0856. 🐛 fix: fix null pointer exception on login
