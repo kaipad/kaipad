@@ -735,3 +735,4 @@
 0516. ✅ test: add unit test for quiz service
 0699. 🎨 style: standardize quote style
 0562. 🔧 refactor: clean up auth middleware
+0373. 📚 docs: document token refresh logic
