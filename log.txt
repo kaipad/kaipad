@@ -753,3 +753,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0158. 📚 docs: clarify environment setup
 0589. 🐛 fix: fix broken CSS in mobile view
+0121. ✨ feat: support email verification
