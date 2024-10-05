@@ -754,3 +754,4 @@
 0158. 📚 docs: clarify environment setup
 0589. 🐛 fix: fix broken CSS in mobile view
 0121. ✨ feat: support email verification
+0923. ✨ feat: support email verification
