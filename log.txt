@@ -1722,3 +1722,4 @@
 0005. ✅ test: add unit test for quiz service
 0174. 📚 docs: clarify environment setup
 0510. 🎨 style: rename variables for clarity
+0801. ✨ feat: enable dark mode toggle
