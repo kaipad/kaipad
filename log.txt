@@ -1723,3 +1723,4 @@
 0174. 📚 docs: clarify environment setup
 0510. 🎨 style: rename variables for clarity
 0801. ✨ feat: enable dark mode toggle
+0653. 🐛 fix: prevent crash on empty input
