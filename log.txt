@@ -755,3 +755,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0121. ✨ feat: support email verification
 0923. ✨ feat: support email verification
+0944. ✨ feat: add user authentication
