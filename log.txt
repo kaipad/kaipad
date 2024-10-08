@@ -1728,3 +1728,4 @@
 0249. ✅ test: increase coverage on auth module
 0244. ✨ feat: add export to CSV option
 0490. ✨ feat: create admin dashboard
+0566. 📚 docs: write FAQ section
