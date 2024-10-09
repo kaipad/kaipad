@@ -1729,3 +1729,4 @@
 0244. ✨ feat: add export to CSV option
 0490. ✨ feat: create admin dashboard
 0566. 📚 docs: write FAQ section
+0983. 🔧 refactor: split large controller into smaller functions
