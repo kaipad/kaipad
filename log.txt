@@ -758,3 +758,4 @@
 0944. ✨ feat: add user authentication
 0738. 🐛 fix: prevent crash on empty input
 0534. 🔧 refactor: split large controller into smaller functions
+0551. 📚 docs: write FAQ section
