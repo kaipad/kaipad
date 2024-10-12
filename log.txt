@@ -1734,3 +1734,4 @@
 0441. 📚 docs: add API usage examples
 0221. ✨ feat: add user authentication
 0151. ✅ test: add unit test for quiz service
+0963. 🚀 perf: reduce image load time
