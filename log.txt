@@ -760,3 +760,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0551. 📚 docs: write FAQ section
 0768. 🎨 style: remove trailing whitespace
+0180. ✨ feat: add export to CSV option
