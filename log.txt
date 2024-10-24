@@ -1742,3 +1742,4 @@
 0921. 🐛 fix: correct typo in registration form
 0782. 📚 docs: improve code comments in utils
 0173. 🚀 perf: cache repeated calculations
+0207. 🐛 fix: prevent crash on empty input
