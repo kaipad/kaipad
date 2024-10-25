@@ -1744,3 +1744,4 @@
 0173. 🚀 perf: cache repeated calculations
 0207. 🐛 fix: prevent crash on empty input
 0588. 🔧 refactor: organize models into subfolders
+0552. 🐛 fix: fix null pointer exception on login
