@@ -781,3 +781,4 @@
 0244. ✨ feat: add export to CSV option
 0901. ✨ feat: add user authentication
 0576. ♻️ chore: update .gitignore
+0961. 📚 docs: add API usage examples
