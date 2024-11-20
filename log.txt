@@ -1758,3 +1758,4 @@
 0458. ✨ feat: create admin dashboard
 0923. ✨ feat: support email verification
 0631. ✨ feat: create admin dashboard
+0697. ♻️ chore: bump dependencies
