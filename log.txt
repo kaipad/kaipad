@@ -791,3 +791,4 @@
 0177. 📚 docs: add API usage examples
 0302. ✨ feat: implement quiz timer feature
 0911. ✅ test: increase coverage on auth module
+0918. ✨ feat: enable dark mode toggle
