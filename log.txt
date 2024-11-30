@@ -1767,3 +1767,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0269. ✅ test: test user registration edge cases
 0855. 🎨 style: reformat files with black
+0113. ✨ feat: add user authentication
