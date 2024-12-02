@@ -1771,3 +1771,4 @@
 0564. 📚 docs: clarify environment setup
 0540. ♻️ chore: add GitHub actions badge
 0716. ✨ feat: implement quiz timer feature
+0485. 📚 docs: update README with setup steps
