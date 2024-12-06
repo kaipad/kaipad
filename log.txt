@@ -1775,3 +1775,4 @@
 0722. 📚 docs: add API usage examples
 0777. 📚 docs: document token refresh logic
 0427. ✅ test: mock database connection in test suite
+0613. 🐛 fix: prevent crash on empty input
