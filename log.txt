@@ -1778,3 +1778,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0567. 📚 docs: add API usage examples
 0898. 🐛 fix: fix broken CSS in mobile view
+0759. 🔧 refactor: organize models into subfolders
