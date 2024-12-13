@@ -1782,3 +1782,4 @@
 0273. 🚀 perf: reduce image load time
 0139. 📚 docs: document token refresh logic
 0196. ♻️ chore: bump dependencies
+0763. 🔧 refactor: organize models into subfolders
