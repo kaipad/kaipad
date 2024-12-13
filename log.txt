@@ -802,3 +802,4 @@
 0031. 📚 docs: document token refresh logic
 0639. 🐛 fix: correct typo in registration form
 0819. 🚀 perf: reduce image load time
+0813. 🔧 refactor: organize models into subfolders
