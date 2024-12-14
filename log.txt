@@ -1783,3 +1783,4 @@
 0139. 📚 docs: document token refresh logic
 0196. ♻️ chore: bump dependencies
 0763. 🔧 refactor: organize models into subfolders
+0897. 🐛 fix: prevent crash on empty input
