@@ -1790,3 +1790,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0381. ♻️ chore: clean up unused files
 0390. 🎨 style: standardize quote style
+0779. 🔧 refactor: organize models into subfolders
