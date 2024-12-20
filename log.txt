@@ -806,3 +806,4 @@
 0606. 📚 docs: improve code comments in utils
 0029. 🚀 perf: lazy-load components
 0389. 📚 docs: improve code comments in utils
+0625. 🐛 fix: handle 500 error in quiz API
