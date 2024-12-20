@@ -1791,3 +1791,4 @@
 0381. ♻️ chore: clean up unused files
 0390. 🎨 style: standardize quote style
 0779. 🔧 refactor: organize models into subfolders
+0259. 🚀 perf: lazy-load components
