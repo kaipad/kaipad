@@ -812,3 +812,4 @@
 0440. 📚 docs: update README with setup steps
 0175. 📚 docs: add API usage examples
 0966. 📚 docs: improve code comments in utils
+0932. ✅ test: add integration test for /submit endpoint
