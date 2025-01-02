@@ -1807,3 +1807,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0253. 📚 docs: update README with setup steps
 0853. 🔧 refactor: refactor quiz grading logic
+0144. ✅ test: increase coverage on auth module
