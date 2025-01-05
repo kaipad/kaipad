@@ -1810,3 +1810,4 @@
 0144. ✅ test: increase coverage on auth module
 0370. 🚀 perf: reduce image load time
 0892. ✅ test: add unit test for quiz service
+0066. 🔧 refactor: clean up auth middleware
