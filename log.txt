@@ -1812,3 +1812,4 @@
 0892. ✅ test: add unit test for quiz service
 0066. 🔧 refactor: clean up auth middleware
 0694. 🎨 style: rename variables for clarity
+0206. 🐛 fix: handle 500 error in quiz API
