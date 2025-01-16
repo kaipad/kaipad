@@ -1819,3 +1819,4 @@
 0204. 🎨 style: standardize quote style
 0176. 🔧 refactor: remove redundant code blocks
 0628. ♻️ chore: add GitHub actions badge
+0739. 🎨 style: remove trailing whitespace
