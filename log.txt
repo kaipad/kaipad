@@ -824,3 +824,4 @@
 0251. ♻️ chore: update .gitignore
 0226. 🚀 perf: lazy-load components
 0370. 🚀 perf: reduce image load time
+0300. ✨ feat: add export to CSV option
