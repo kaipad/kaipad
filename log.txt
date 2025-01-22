@@ -830,3 +830,4 @@
 0262. 🎨 style: remove trailing whitespace
 0788. 📚 docs: add API usage examples
 0579. 📚 docs: clarify environment setup
+0480. ♻️ chore: add GitHub actions badge
