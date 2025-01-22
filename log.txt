@@ -829,3 +829,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0262. 🎨 style: remove trailing whitespace
 0788. 📚 docs: add API usage examples
+0579. 📚 docs: clarify environment setup
