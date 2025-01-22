@@ -828,3 +828,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0531. 🐛 fix: prevent crash on empty input
 0262. 🎨 style: remove trailing whitespace
+0788. 📚 docs: add API usage examples
