@@ -1834,3 +1834,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0321. 🔧 refactor: organize models into subfolders
 0717. 🔧 refactor: refactor quiz grading logic
+0347. ♻️ chore: update .gitignore
