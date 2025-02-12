@@ -855,3 +855,4 @@
 0431. 🎨 style: reformat files with black
 0555. ✨ feat: create admin dashboard
 0548. 📚 docs: write FAQ section
+0316. 🐛 fix: fix broken CSS in mobile view
