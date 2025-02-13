@@ -1851,3 +1851,4 @@
 0494. 🎨 style: rename variables for clarity
 0647. 🐛 fix: prevent crash on empty input
 0726. ✨ feat: enable dark mode toggle
+0809. ♻️ chore: rename env.example
