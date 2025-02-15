@@ -1854,3 +1854,4 @@
 0809. ♻️ chore: rename env.example
 0884. 📚 docs: clarify environment setup
 0954. 🚀 perf: cache repeated calculations
+0345. 📚 docs: document token refresh logic
