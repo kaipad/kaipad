@@ -1861,3 +1861,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0289. 🐛 fix: resolve issue with date parsing
 0451. ✨ feat: support email verification
+0854. ♻️ chore: rename env.example
