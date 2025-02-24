@@ -865,3 +865,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0490. ✨ feat: create admin dashboard
 0384. 📚 docs: clarify environment setup
+0880. 🐛 fix: fix broken CSS in mobile view
