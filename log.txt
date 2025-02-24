@@ -1863,3 +1863,4 @@
 0451. ✨ feat: support email verification
 0854. ♻️ chore: rename env.example
 0999. 🔧 refactor: split large controller into smaller functions
+0400. 🐛 fix: fix null pointer exception on login
