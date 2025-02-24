@@ -866,3 +866,4 @@
 0490. ✨ feat: create admin dashboard
 0384. 📚 docs: clarify environment setup
 0880. 🐛 fix: fix broken CSS in mobile view
+0937. 🐛 fix: handle 500 error in quiz API
