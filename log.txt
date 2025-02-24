@@ -864,3 +864,4 @@
 0678. ✨ feat: add user authentication
 0255. 🔧 refactor: refactor quiz grading logic
 0490. ✨ feat: create admin dashboard
+0384. 📚 docs: clarify environment setup
