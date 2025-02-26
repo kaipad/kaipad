@@ -868,3 +868,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0937. 🐛 fix: handle 500 error in quiz API
 0503. ♻️ chore: rename env.example
+0401. 🚀 perf: reduce image load time
