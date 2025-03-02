@@ -872,3 +872,4 @@
 0267. 📚 docs: improve code comments in utils
 0412. ✅ test: increase coverage on auth module
 0947. 📚 docs: write FAQ section
+1000. ✅ test: increase coverage on auth module
