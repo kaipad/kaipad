@@ -1874,3 +1874,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0443. 🎨 style: standardize quote style
 0488. ♻️ chore: add GitHub actions badge
+0077. ♻️ chore: rename env.example
