@@ -884,3 +884,4 @@
 0593. 🐛 fix: correct typo in registration form
 0414. 🔧 refactor: remove redundant code blocks
 0587. 🔧 refactor: remove redundant code blocks
+0715. ✨ feat: create admin dashboard
