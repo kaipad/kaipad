@@ -885,3 +885,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0587. 🔧 refactor: remove redundant code blocks
 0715. ✨ feat: create admin dashboard
+0632. 🎨 style: remove trailing whitespace
