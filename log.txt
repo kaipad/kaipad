@@ -887,3 +887,4 @@
 0715. ✨ feat: create admin dashboard
 0632. 🎨 style: remove trailing whitespace
 0328. 🐛 fix: resolve issue with date parsing
+0709. ♻️ chore: bump dependencies
