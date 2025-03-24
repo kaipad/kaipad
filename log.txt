@@ -889,3 +889,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0709. ♻️ chore: bump dependencies
 0965. 🎨 style: reformat files with black
+0710. 🐛 fix: fix broken CSS in mobile view
