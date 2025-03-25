@@ -890,3 +890,4 @@
 0709. ♻️ chore: bump dependencies
 0965. 🎨 style: reformat files with black
 0710. 🐛 fix: fix broken CSS in mobile view
+0130. 🔧 refactor: split large controller into smaller functions
