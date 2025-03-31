@@ -897,3 +897,4 @@
 0011. ✅ test: add unit test for quiz service
 0142. ✨ feat: implement quiz timer feature
 0468. 📚 docs: update README with setup steps
+0893. 🐛 fix: handle 500 error in quiz API
