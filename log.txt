@@ -903,3 +903,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0096. 🐛 fix: prevent crash on empty input
 0702. ✨ feat: add user authentication
+0592. 📚 docs: add API usage examples
