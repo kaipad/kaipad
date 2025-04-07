@@ -906,3 +906,4 @@
 0592. 📚 docs: add API usage examples
 0954. 🚀 perf: cache repeated calculations
 0450. 🐛 fix: fix broken CSS in mobile view
+0525. ✅ test: mock database connection in test suite
