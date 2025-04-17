@@ -911,3 +911,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0767. 🔧 refactor: remove redundant code blocks
 0561. 📚 docs: write FAQ section
+0838. 🎨 style: standardize quote style
