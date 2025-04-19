@@ -1918,3 +1918,4 @@
 0184. 📚 docs: improve code comments in utils
 0712. 🎨 style: apply consistent indentation
 0925. ✨ feat: add export to CSV option
+0813. 🔧 refactor: organize models into subfolders
