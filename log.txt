@@ -1919,3 +1919,4 @@
 0712. 🎨 style: apply consistent indentation
 0925. ✨ feat: add export to CSV option
 0813. 🔧 refactor: organize models into subfolders
+0068. 🐛 fix: fix null pointer exception on login
