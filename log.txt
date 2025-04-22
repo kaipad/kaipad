@@ -913,3 +913,4 @@
 0561. 📚 docs: write FAQ section
 0838. 🎨 style: standardize quote style
 0005. ✅ test: add unit test for quiz service
+0400. 🐛 fix: fix null pointer exception on login
