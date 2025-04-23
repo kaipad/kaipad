@@ -1920,3 +1920,4 @@
 0925. ✨ feat: add export to CSV option
 0813. 🔧 refactor: organize models into subfolders
 0068. 🐛 fix: fix null pointer exception on login
+0401. 🚀 perf: reduce image load time
