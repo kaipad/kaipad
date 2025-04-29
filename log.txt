@@ -1925,3 +1925,4 @@
 0407. 🚀 perf: cache repeated calculations
 0669. ✨ feat: enable dark mode toggle
 0627. 📚 docs: document token refresh logic
+0871. ✅ test: add integration test for /submit endpoint
