@@ -1928,3 +1928,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0571. 🔧 refactor: clean up auth middleware
 0202. 🔧 refactor: refactor quiz grading logic
+0586. 🎨 style: remove trailing whitespace
