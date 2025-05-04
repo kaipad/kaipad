@@ -1931,3 +1931,4 @@
 0586. 🎨 style: remove trailing whitespace
 0648. ♻️ chore: bump dependencies
 0338. ♻️ chore: add GitHub actions badge
+0491. 🚀 perf: lazy-load components
