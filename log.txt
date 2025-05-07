@@ -1935,3 +1935,4 @@
 0734. ✨ feat: add export to CSV option
 0311. 🎨 style: apply consistent indentation
 0079. 🐛 fix: correct typo in registration form
+0663. 🚀 perf: reduce image load time
