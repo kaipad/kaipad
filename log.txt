@@ -1938,3 +1938,4 @@
 0663. 🚀 perf: reduce image load time
 0802. 🔧 refactor: remove redundant code blocks
 0711. 🐛 fix: fix broken CSS in mobile view
+0112. ✨ feat: enable dark mode toggle
