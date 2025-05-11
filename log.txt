@@ -927,3 +927,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0640. ♻️ chore: bump dependencies
 0519. 📚 docs: document token refresh logic
+0499. 🎨 style: reformat files with black
