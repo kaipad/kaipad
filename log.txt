@@ -928,3 +928,4 @@
 0640. ♻️ chore: bump dependencies
 0519. 📚 docs: document token refresh logic
 0499. 🎨 style: reformat files with black
+0287. 📚 docs: write FAQ section
