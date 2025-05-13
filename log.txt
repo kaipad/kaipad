@@ -1940,3 +1940,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0112. ✨ feat: enable dark mode toggle
 0794. ♻️ chore: clean up unused files
+0154. 🐛 fix: prevent crash on empty input
