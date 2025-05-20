@@ -941,3 +941,4 @@
 0888. 🚀 perf: lazy-load components
 0149. ✨ feat: add export to CSV option
 0564. 📚 docs: clarify environment setup
+0157. ✅ test: mock database connection in test suite
