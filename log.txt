@@ -1945,3 +1945,4 @@
 0203. 🚀 perf: lazy-load components
 0422. 🔧 refactor: organize models into subfolders
 0702. ✨ feat: add user authentication
+0504. 📚 docs: document token refresh logic
