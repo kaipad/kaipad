@@ -1954,3 +1954,4 @@
 0580. ♻️ chore: bump dependencies
 0799. ♻️ chore: clean up unused files
 0673. 🐛 fix: correct typo in registration form
+0474. ✅ test: add unit test for quiz service
