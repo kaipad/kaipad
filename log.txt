@@ -961,3 +961,4 @@
 0452. ✨ feat: implement quiz timer feature
 0424. ✨ feat: add user authentication
 0493. ✨ feat: add user authentication
+0585. 🚀 perf: lazy-load components
