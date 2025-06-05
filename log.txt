@@ -1960,3 +1960,4 @@
 0237. 🎨 style: standardize quote style
 0870. ♻️ chore: clean up unused files
 0766. 🎨 style: reformat files with black
+0948. 🐛 fix: fix broken CSS in mobile view
