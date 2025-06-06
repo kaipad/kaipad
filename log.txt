@@ -962,3 +962,4 @@
 0424. ✨ feat: add user authentication
 0493. ✨ feat: add user authentication
 0585. 🚀 perf: lazy-load components
+0185. 📚 docs: write FAQ section
