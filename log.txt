@@ -965,3 +965,4 @@
 0185. 📚 docs: write FAQ section
 0110. 🐛 fix: prevent crash on empty input
 0238. 🎨 style: apply consistent indentation
+0451. ✨ feat: support email verification
