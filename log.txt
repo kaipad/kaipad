@@ -967,3 +967,4 @@
 0238. 🎨 style: apply consistent indentation
 0451. ✨ feat: support email verification
 0298. ♻️ chore: update .gitignore
+0264. 🚀 perf: optimize database query for quiz results
