@@ -1965,3 +1965,4 @@
 0420. 🚀 perf: reduce image load time
 0748. 🚀 perf: optimize database query for quiz results
 0278. 🔧 refactor: clean up auth middleware
+0529. 📚 docs: write FAQ section
