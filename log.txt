@@ -973,3 +973,4 @@
 0946. ✅ test: add unit test for quiz service
 0172. 📚 docs: add API usage examples
 0147. ♻️ chore: bump dependencies
+0291. 📚 docs: write FAQ section
