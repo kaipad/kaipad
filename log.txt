@@ -1968,3 +1968,4 @@
 0529. 📚 docs: write FAQ section
 0699. 🎨 style: standardize quote style
 0979. 🎨 style: standardize quote style
+0839. 🎨 style: apply consistent indentation
