@@ -974,3 +974,4 @@
 0172. 📚 docs: add API usage examples
 0147. ♻️ chore: bump dependencies
 0291. 📚 docs: write FAQ section
+0630. 🚀 perf: lazy-load components
