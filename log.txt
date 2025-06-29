@@ -1980,3 +1980,4 @@
 0833. ✨ feat: add user authentication
 0719. 🎨 style: apply consistent indentation
 0187. ✨ feat: support email verification
+0085. ✨ feat: support email verification
