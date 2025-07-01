@@ -1981,3 +1981,4 @@
 0719. 🎨 style: apply consistent indentation
 0187. ✨ feat: support email verification
 0085. ✨ feat: support email verification
+0477. 🐛 fix: fix broken CSS in mobile view
