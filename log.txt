@@ -984,3 +984,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0891. ✨ feat: create admin dashboard
 0205. 📚 docs: update README with setup steps
+0141. 📚 docs: document token refresh logic
