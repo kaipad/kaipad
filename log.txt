@@ -1985,3 +1985,4 @@
 0902. ✨ feat: enable dark mode toggle
 0837. 🚀 perf: cache repeated calculations
 0814. 🔧 refactor: remove redundant code blocks
+0518. ✨ feat: support email verification
