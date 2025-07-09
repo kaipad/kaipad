@@ -992,3 +992,4 @@
 0284. ✨ feat: implement quiz timer feature
 0204. 🎨 style: standardize quote style
 0605. ✨ feat: support email verification
+0617. ✨ feat: support email verification
