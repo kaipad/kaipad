@@ -1986,3 +1986,4 @@
 0837. 🚀 perf: cache repeated calculations
 0814. 🔧 refactor: remove redundant code blocks
 0518. ✨ feat: support email verification
+0367. 🐛 fix: fix null pointer exception on login
