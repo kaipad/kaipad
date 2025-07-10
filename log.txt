@@ -1988,3 +1988,4 @@
 0518. ✨ feat: support email verification
 0367. 🐛 fix: fix null pointer exception on login
 0691. 🎨 style: rename variables for clarity
+0316. 🐛 fix: fix broken CSS in mobile view
