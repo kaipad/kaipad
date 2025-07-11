@@ -995,3 +995,4 @@
 0617. ✨ feat: support email verification
 0303. 🎨 style: rename variables for clarity
 0423. ✅ test: mock database connection in test suite
+0771. 🚀 perf: cache repeated calculations
