@@ -1994,3 +1994,4 @@
 0616. 🚀 perf: lazy-load components
 0846. ✨ feat: implement quiz timer feature
 0922. 📚 docs: write FAQ section
+0512. 🚀 perf: reduce image load time
