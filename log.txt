@@ -1991,3 +1991,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0414. 🔧 refactor: remove redundant code blocks
 0781. 🚀 perf: reduce image load time
+0616. 🚀 perf: lazy-load components
