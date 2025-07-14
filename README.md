@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**kaipad/kaipad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kaipad/kaipad** its a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
