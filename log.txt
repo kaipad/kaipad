@@ -1996,3 +1996,4 @@
 0922. 📚 docs: write FAQ section
 0512. 🚀 perf: reduce image load time
 0294. 🐛 fix: prevent crash on empty input
+0788. 📚 docs: add API usage examples
